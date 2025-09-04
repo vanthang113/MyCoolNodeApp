@@ -6,14 +6,17 @@
   "scripts": {
     "start": "node app.js"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/vanthang113/MyCoolNodeApp.git"
   },
-  "author": "",
+  "author": "Nguyen Van Thang",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/vanthang113/MyCoolNodeApp.git"
   },
-  "homepage": ""
+  "homepage": "https://github.com/vanthang113/MyCoolNodeApp#readme"
 }
